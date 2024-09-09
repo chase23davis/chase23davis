@@ -1,7 +1,7 @@
 ## Hello and welcome! I'm Chase Davis, and this is my GitHub profile.
-- :ocean: Background: My foundation is in coastal engineering, with a passion for coastal modeling and project design
-- :bridge_at_night: Research: I'm currently collaborating with NCDOT to evaluate North Carolina bridge vulnerability due to coastal storms and sea level rise
-- :computer: Future: I'm looking forward to expanding my technical skills and understanding of instrumentation through SmartCoasts
+- My foundation is in coastal engineering, with a passion for coastal modeling and project design
+- Research: I'm currently collaborating with NCDOT to evaluate North Carolina bridge vulnerability due to coastal storms and sea level rise
+
 <!--
 **chase23davis/chase23davis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
